@@ -1,0 +1,26 @@
+
+
+.headingred {
+    color:red;
+}
+.header {
+    display: flex;
+    height: 100;
+    background-color: white;
+    padding: 10px;
+}
+.blackwhite {
+    background-color: black;
+    color: white;
+}
+.headgreen {
+    color: green;
+}
+.greenwithdark {
+    color: green;
+    background-color: darkred;
+}
+
+.black {
+    color: black;
+}
