@@ -1,0 +1,259 @@
+[
+    {
+        "level": "pg",
+        "title":"Computing (Software Engineering) MSc Placement",
+        "overview": {
+            "title": "OVERVIEW",
+            "content": "Study the design of software systems at a greater depth with our Computing (Software Engineering) MSc course. Alongside exploring areas of computer software engineering, you will also have the opportunity to develop your analytics and research skills during this Computing postgraduate degree. Students will complete an individual thesis which will investigate an area they find of particular interest."
+        },
+        "highlights": {
+            "title": "HIGHLIGHTS",
+            "content": ["Object-oriented design and development.", "Practical real-world projects.", "Agile software methodology.", "Core computing fundamentals.", "Flexible part time study option on the computing software engineering degree."]
+        },
+        "gallery": {
+            "title": "CAMPUS GALLERY",
+            "content": [""]
+        },
+        "details": {
+            "title": "COURSE CONTENT",
+            "content": [
+                {
+                    "title": "Course Details",
+                    "description": "There is a huge demand for software that communicates effectively with a number of devices. As a result, there is a need for qualified and skilled professionals who can design, develop and analyse software to improve our current provision. Our Software Engineering MSc will equip you with this expertise. Although this software computing postgraduate course does have a technical focus, students will also develop their interpersonal skills and understanding of business context: both of which are vital to being able to problem solve in business.On the software engineering masters, you will study six modules and complete a dissertation. Some of the optional modules are only offered according to staff availability and student numbers. Information about the modules for this computing software engineering MSc course can be found on the award map: View Computing (Software Engineering) MSc modules Please note the modules shown here relate to the academic year 22/23. The modules relating to the academic year 23/24 will be available from June 2023",
+                    "content": []
+                },
+                {
+                    "title": "Entry Requirements",
+                    "description": "Applicants for the msc computer software engineering will normally hold a recognised first or second class honours degree from a UK university or international equivalent in a relevant subject. We expect that you will have a working knowledge of computers and networks and it is essential that you have practical hands-on experience of at least one programming language. For information on how to apply to study with us, please see our How to Apply page.",
+                    "content": [
+                        {
+                            "title": "English Language Requirements",
+                            "description": "All International and EU students applying for a course with us must meet the following minimum English language requirements:",
+                            "content": ["Minimum standard – IELTS 6.5 (or equivalent) for study at postgraduate level."]
+                        }
+                    ]
+                }
+                
+            ]
+        },
+       "fee": {
+            "title": "Fees And Funding",
+            "description": "Postgraduate Loans If you are starting a postgraduate Master’s course in 2023/24 either full-time or part-time* you may be able to apply for a postgraduate loan through Student Finance England *Please note that the maximum period of study allowed for part-time courses is two years.For information on the scholarships available to you, please see our scholarships page.",
+            "content": [
+                {
+                    "title": "2023/24 Tuition Fees",
+                    "sub": "Fees quoted relate to study in the Academic Year 23/24 only and may be subject to inflationary increases in future years.  ",
+                    "fee": [
+                        {
+                            "title": "UK – Full Time",
+                            "amount": "£8,010"
+                        },
+                        {
+                            "title": "UK – Part Time",
+                            "amount": "£890 per 20 credits"
+                        },
+                        {
+                            "title": "International – Full Time",
+                            "amount": "£16,500"
+                        }
+                    ],
+                    "additional": "There are currently no additional costs anticipated for this course for 2023 entry."
+                },
+                {
+                    "title": "22/23 Tuition Fees",
+                    "sub": "Fees quoted relate to study in the Academic Year 23/24 only and may be subject to inflationary increases in future years.  ",
+                    "fee": [
+                        {
+                            "title": "UK – Full Time",
+                            "amount": "£7,650"
+                        },
+                        {
+                            "title": "UK – Part Time",
+                            "amount": "£850 per 20 Credits"
+                        },
+                        {
+                            "title": "International – Full Time",
+                            "amount": "£15,000"
+                        }
+                    ],
+                    "additional": "There are currently no additional costs anticipated for this course for 2022 entry."
+                }
+            ]
+        },
+        "modules" :{
+            "title":"Modules",
+            "content" :[
+                {
+                    "code":"CSYM015",
+                    "title":"Intelligent Systems",
+                    "credits":20,
+                    "status":"Designated",
+                    "pre":"none"
+                },
+                {
+                    "code":"CSYM016",
+                    "title":"Distributed Systems",
+                    "credits":20,
+                    "status":"Designated",
+                    "pre":"none"
+                },
+                {
+                    "code":"CSYM037",
+                    "title":"Research Project",
+                    "credits":30,
+                    "status":"Compulsory",
+                    "pre":"none"
+                },
+                {
+                    "code":"CSYM055",
+                    "title":"Placement",
+                    "credits":40,
+                    "status":"Compulsory",
+                    "pre":"CSYM036"
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQs",
+            "content": [
+                {
+                    "title": "How will I be taught on Computing (Software Engineering) MSc?",
+                    "description": "Alongside learning through theoretical lectures and seminars, this computing software masters degree course takes a hands-on approach. You will be able to utilise laboratory facilities and computer simulation tools to further your knowledge and reinforce it through case studies and practical examples."
+                },
+                {
+                    "title": "What is the schedule?",
+                    "description": "We have developed this software engineering msc course to be studied around other commitments and you may only need to attend the university for two days per week."
+                },
+                {
+                    "title": "Are there any specialist facilities?",
+                    "description": "Students on this software engineering masters course will be able to access around 150 Linux and PC workstation computers, along with digital projection facilities. These are housed across six bespoke computer laboratories which are maintained by two technicians.To ensure our students receive personalised support, we only enrol a small cohort of students. This way, we can ensure you develop your skills and knowledge to your full potential."
+                }
+            ]
+        }
+    },
+    {
+        "level": "pg",
+        "title":"Computing (Software Engineering) MSc",
+        "overview": {
+            "title": "OVERVIEW",
+            "content": "Study the design of software systems at a greater depth with our Computing (Software Engineering) MSc course. Alongside exploring areas of computer software engineering, you will also have the opportunity to develop your analytics and research skills during this Computing postgraduate degree. Students will complete an individual thesis which will investigate an area they find of particular interest."
+        },
+        "highlights": {
+            "title": "HIGHLIGHTS",
+            "content": ["Object-oriented design and development.", "Practical real-world projects.", "Agile software methodology.", "Core computing fundamentals.", "Flexible part time study option on the computing software engineering degree."]
+        },
+        "gallery": {
+            "title": "CAMPUS GALLERY",
+            "content": [""]
+        },
+        "details": {
+            "title": "COURSE CONTENT",
+            "content": [
+                {
+                    "title": "Course Details",
+                    "description": "There is a huge demand for software that communicates effectively with a number of devices. As a result, there is a need for qualified and skilled professionals who can design, develop and analyse software to improve our current provision. Our Software Engineering MSc will equip you with this expertise. Although this software computing postgraduate course does have a technical focus, students will also develop their interpersonal skills and understanding of business context: both of which are vital to being able to problem solve in business.On the software engineering masters, you will study six modules and complete a dissertation. Some of the optional modules are only offered according to staff availability and student numbers. Information about the modules for this computing software engineering MSc course can be found on the award map: View Computing (Software Engineering) MSc modules Please note the modules shown here relate to the academic year 22/23. The modules relating to the academic year 23/24 will be available from June 2023",
+                    "content": []
+                },
+                {
+                    "title": "Entry Requirements",
+                    "description": "Applicants for the msc computer software engineering will normally hold a recognised first or second class honours degree from a UK university or international equivalent in a relevant subject. We expect that you will have a working knowledge of computers and networks and it is essential that you have practical hands-on experience of at least one programming language. For information on how to apply to study with us, please see our How to Apply page.",
+                    "content": [
+                        {
+                            "title": "English Language Requirements",
+                            "description": "All International and EU students applying for a course with us must meet the following minimum English language requirements:",
+                            "content": ["Minimum standard – IELTS 6.5 (or equivalent) for study at postgraduate level."]
+                        }
+                    ]
+                }
+                
+            ]
+        },
+       "fee": {
+            "title": "Fees And Funding",
+            "description": "Postgraduate Loans If you are starting a postgraduate Master’s course in 2023/24 either full-time or part-time* you may be able to apply for a postgraduate loan through Student Finance England *Please note that the maximum period of study allowed for part-time courses is two years.For information on the scholarships available to you, please see our scholarships page.",
+            "content": [
+                {
+                    "title": "2023/24 Tuition Fees",
+                    "sub": "Fees quoted relate to study in the Academic Year 23/24 only and may be subject to inflationary increases in future years.  ",
+                    "fee": [
+                        {
+                            "title": "UK – Full Time",
+                            "amount": "£8,010"
+                        },
+                        {
+                            "title": "UK – Part Time",
+                            "amount": "£890 per 20 credits"
+                        },
+                        {
+                            "title": "International – Full Time",
+                            "amount": "£16,500"
+                        }
+                    ],
+                    "additional": "There are currently no additional costs anticipated for this course for 2023 entry."
+                },
+                {
+                    "title": "22/23 Tuition Fees",
+                    "sub": "Fees quoted relate to study in the Academic Year 23/24 only and may be subject to inflationary increases in future years.  ",
+                    "fee": [
+                        {
+                            "title": "UK – Full Time",
+                            "amount": "£7,650"
+                        },
+                        {
+                            "title": "UK – Part Time",
+                            "amount": "£850 per 20 Credits"
+                        },
+                        {
+                            "title": "International – Full Time",
+                            "amount": "£15,000"
+                        }
+                    ],
+                    "additional": "There are currently no additional costs anticipated for this course for 2022 entry."
+                }
+            ]
+        },
+        "modules" :{
+            "title":"Modules",
+            "content" :[
+                {
+                    "code":"CSYM037",
+                    "title":"Research Project",
+                    "credits":40,
+                    "status":"Compulsory",
+                    "pre":"none"
+                },
+                {
+                    "code":"CSYM035",
+                    "title":"Placement",
+                    "credits":10,
+                    "status":"Compulsory",
+                    "pre":"CSYM036"
+                },
+                {
+                    "code":"CSYM034",
+                    "title":"Placement",
+                    "credits":10,
+                    "status":"Compulsory",
+                    "pre":"CSYM036"
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQs",
+            "content": [
+                {
+                    "title": "How will I be taught on Computing (Software Engineering) MSc?",
+                    "description": "Alongside learning through theoretical lectures and seminars, this computing software masters degree course takes a hands-on approach. You will be able to utilise laboratory facilities and computer simulation tools to further your knowledge and reinforce it through case studies and practical examples."
+                },
+                {
+                    "title": "What is the schedule?",
+                    "description": "We have developed this software engineering msc course to be studied around other commitments and you may only need to attend the university for two days per week."
+                },
+                {
+                    "title": "Are there any specialist facilities?",
+                    "description": "Students on this software engineering masters course will be able to access around 150 Linux and PC workstation computers, along with digital projection facilities. These are housed across six bespoke computer laboratories which are maintained by two technicians.To ensure our students receive personalised support, we only enrol a small cohort of students. This way, we can ensure you develop your skills and knowledge to your full potential."
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assignment</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="course.css" />
+  <!-- google fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <section>
+    <div class="container">
+      <h1>Courses</h1>
+      <div class="btn-group mb-2" role="group">
+        <button type="button" class="btn btn-primary mr-3" id="selectAllBtn">Select All Courses</button>
+        <a href="report.html" type="button" class="btn btn-primary mr-3" id="generateReportBtn">Generate Report</a>
+        <a href="addcourse.html" type="button" class="btn btn-warning" id="selectAllBtn">Add course</a>
+      </div>
+      <!-- start of table -->
+      <table class="table">
+        <!-- start of table head -->
+        <thead id="tablehead">
+          <tr>
+            <th>&nbsp;</th>
+            <th>Title</th>
+            <th>Content</th>
+            <th>Highlights</th>
+            <th>Level</th>
+            <th>Delete</th>
+          </tr>
+        </thead>
+        <!-- end of table head -->
+
+        <!-- start of table body -->
+        <tbody id="tablebody">
+          <!-- this field will be inserted by javascript -->
+        </tbody>
+        <!-- end of table body -->
+      </table>
+      <!-- end of table -->
+    </div>
+  </section>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.2.1/axios.min.js"></script>
+  <script src="course.js"></script>
+</body>
+</html>

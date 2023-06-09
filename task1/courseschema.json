@@ -1,0 +1,386 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": [
+      {
+        "type": "object",
+        "properties": {
+          "level": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "overview": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "content": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "title",
+              "content"
+            ]
+          },
+          "highlights": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "content": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "title",
+              "content"
+            ]
+          },
+          "gallery": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "content": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "title",
+              "content"
+            ]
+          },
+          "details": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "content": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      },
+                      "content": {
+                        "type": "array",
+                        "items": {}
+                      }
+                    },
+                    "required": [
+                      "title",
+                      "description",
+                      "content"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      },
+                      "content": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "title": {
+                                "type": "string"
+                              },
+                              "description": {
+                                "type": "string"
+                              },
+                              "content": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "title",
+                              "description",
+                              "content"
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "required": [
+                      "title",
+                      "description",
+                      "content"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      },
+                      "content": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "title": {
+                                "type": "string"
+                              },
+                              "sub": {
+                                "type": "string"
+                              },
+                              "fee": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "title": {
+                                        "type": "string"
+                                      },
+                                      "amount": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "required": [
+                                      "title",
+                                      "amount"
+                                    ]
+                                  },
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "title": {
+                                        "type": "string"
+                                      },
+                                      "amount": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "required": [
+                                      "title",
+                                      "amount"
+                                    ]
+                                  },
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "title": {
+                                        "type": "string"
+                                      },
+                                      "amount": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "required": [
+                                      "title",
+                                      "amount"
+                                    ]
+                                  }
+                                ]
+                              },
+                              "additional": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "title",
+                              "sub",
+                              "fee",
+                              "additional"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "title": {
+                                "type": "string"
+                              },
+                              "sub": {
+                                "type": "string"
+                              },
+                              "fee": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "title": {
+                                        "type": "string"
+                                      },
+                                      "amount": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "required": [
+                                      "title",
+                                      "amount"
+                                    ]
+                                  },
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "title": {
+                                        "type": "string"
+                                      },
+                                      "amount": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "required": [
+                                      "title",
+                                      "amount"
+                                    ]
+                                  },
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "title": {
+                                        "type": "string"
+                                      },
+                                      "amount": {
+                                        "type": "string"
+                                      }
+                                    },
+                                    "required": [
+                                      "title",
+                                      "amount"
+                                    ]
+                                  }
+                                ]
+                              },
+                              "additional": {
+                                "type": "string"
+                              }
+                            },
+                            "required": [
+                              "title",
+                              "sub",
+                              "fee",
+                              "additional"
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "required": [
+                      "title",
+                      "description",
+                      "content"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "title",
+              "content"
+            ]
+          },
+          "faq": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "content": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "title",
+                      "description"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "title",
+                      "description"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "description": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "title",
+                      "description"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "title",
+              "content"
+            ]
+          }
+        },
+        "required": [
+          "level",
+          "title",
+          "overview",
+          "highlights",
+          "gallery",
+          "details",
+          "faq"
+        ]
+      }
+    ]
+  }

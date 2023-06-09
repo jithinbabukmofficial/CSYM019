@@ -1,0 +1,24 @@
+section {
+    display: block;
+    float: left;
+    width: 44%;
+    border-radius: 20px;
+    padding: 2%;
+    margin: 1%;
+}
+
+.csym019 {
+    background-color:cadetblue;
+}
+
+.csym015{
+    background-color: yellow;
+}
+
+.csym011 {
+    background-color: brown;
+}
+
+.csym012 {
+    background-color: antiquewhite;
+}

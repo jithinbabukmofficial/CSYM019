@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Course Form</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container mt-5 mb-5">
+    <h1>Course Form</h1>
+    <form id="courseForm">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="form-group">
+            <label for="title">Title</label>
+            <input type="text" class="form-control" id="title" required>
+            <div class="invalid-feedback">
+              Please enter a title.
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="overview">Overview</label>
+            <textarea class="form-control" id="overview" required></textarea>
+            <div class="invalid-feedback">
+              Please enter an overview.
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="highlights">Highlights</label>
+            <textarea class="form-control" id="highlights" required></textarea>
+            <div class="invalid-feedback">
+              Please enter the highlights.
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="funding">Funding</label>
+            <input type="text" class="form-control" id="funding" required>
+            <div class="invalid-feedback">
+              Please enter the funding details.
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-group">
+            <label for="entryRequirements">Entry Requirements</label>
+            <textarea class="form-control" id="entryRequirements" required></textarea>
+            <div class="invalid-feedback">
+              Please enter the entry requirements.
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="faq">FAQ</label>
+            <textarea class="form-control" id="faq" required></textarea>
+            <div class="invalid-feedback">
+              Please enter the FAQ.
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="fee">Fee</label>
+            <input type="text" class="form-control" id="fee" required>
+            <div class="invalid-feedback">
+              Please enter the fee.
+            </div>
+          </div>
+        </div>
+        
+        <div class="row" id="modulesContainer"></div>
+      </div>
+      <button type="button" class="btn btn-primary" id="addModuleBtn">Add Module</button>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.2.1/axios.min.js"></script>
+  <script src="addscript.js"></script>
+</body>
+</html>
